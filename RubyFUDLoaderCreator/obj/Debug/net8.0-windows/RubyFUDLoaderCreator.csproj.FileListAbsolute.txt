@@ -1,0 +1,16 @@
+C:\Github-Stuff\C#\RubyFUDLoaderCreator\RubyFUDLoaderCreator\bin\Debug\net8.0-windows\RubyFUDLoaderCreator.exe
+C:\Github-Stuff\C#\RubyFUDLoaderCreator\RubyFUDLoaderCreator\bin\Debug\net8.0-windows\RubyFUDLoaderCreator.deps.json
+C:\Github-Stuff\C#\RubyFUDLoaderCreator\RubyFUDLoaderCreator\bin\Debug\net8.0-windows\RubyFUDLoaderCreator.runtimeconfig.json
+C:\Github-Stuff\C#\RubyFUDLoaderCreator\RubyFUDLoaderCreator\bin\Debug\net8.0-windows\RubyFUDLoaderCreator.dll
+C:\Github-Stuff\C#\RubyFUDLoaderCreator\RubyFUDLoaderCreator\bin\Debug\net8.0-windows\RubyFUDLoaderCreator.pdb
+C:\Github-Stuff\C#\RubyFUDLoaderCreator\RubyFUDLoaderCreator\obj\Debug\net8.0-windows\RubyFUDLoaderCreator.Form1.resources
+C:\Github-Stuff\C#\RubyFUDLoaderCreator\RubyFUDLoaderCreator\obj\Debug\net8.0-windows\RubyFUDLoaderCreator.csproj.GenerateResource.cache
+C:\Github-Stuff\C#\RubyFUDLoaderCreator\RubyFUDLoaderCreator\obj\Debug\net8.0-windows\RubyFUDLoaderCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github-Stuff\C#\RubyFUDLoaderCreator\RubyFUDLoaderCreator\obj\Debug\net8.0-windows\RubyFUDLoaderCreator.AssemblyInfoInputs.cache
+C:\Github-Stuff\C#\RubyFUDLoaderCreator\RubyFUDLoaderCreator\obj\Debug\net8.0-windows\RubyFUDLoaderCreator.AssemblyInfo.cs
+C:\Github-Stuff\C#\RubyFUDLoaderCreator\RubyFUDLoaderCreator\obj\Debug\net8.0-windows\RubyFUDLoaderCreator.csproj.CoreCompileInputs.cache
+C:\Github-Stuff\C#\RubyFUDLoaderCreator\RubyFUDLoaderCreator\obj\Debug\net8.0-windows\RubyFUDLoaderCreator.dll
+C:\Github-Stuff\C#\RubyFUDLoaderCreator\RubyFUDLoaderCreator\obj\Debug\net8.0-windows\refint\RubyFUDLoaderCreator.dll
+C:\Github-Stuff\C#\RubyFUDLoaderCreator\RubyFUDLoaderCreator\obj\Debug\net8.0-windows\RubyFUDLoaderCreator.pdb
+C:\Github-Stuff\C#\RubyFUDLoaderCreator\RubyFUDLoaderCreator\obj\Debug\net8.0-windows\RubyFUDLoaderCreator.genruntimeconfig.cache
+C:\Github-Stuff\C#\RubyFUDLoaderCreator\RubyFUDLoaderCreator\obj\Debug\net8.0-windows\ref\RubyFUDLoaderCreator.dll
